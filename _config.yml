@@ -1,0 +1,5 @@
+title: Yoloverse landing
+description: This is my simple landing page hosted on GitHub Pages.
+baseurl: "" # Leave this empty if the site is deployed to the root URL
+url: "https://https://sm001x.github.io/yoloverse-landing/" # The base URL of your site
+theme: minima # You can choose a different Jekyll theme if you want
